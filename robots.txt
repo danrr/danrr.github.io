@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dri.st
+
+# Sitemaps
+Sitemap: https://dri.st/sitemap.xml
